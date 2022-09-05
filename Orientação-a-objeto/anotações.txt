@@ -1,0 +1,6 @@
+
+definições que fazem dela uma caneca: Ela tem uma alça, ela tem um tamanho, ela tem cor, ela tem uma logo. (PROPRIEDADES)
+
+Funcionalidades: Beber um liquido, colocar liquidos dentro (metodos, funções)
+
+
